@@ -4,6 +4,28 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 2 : _3rd June 2021_
+
+### Today's Progress:
+
+Worked on some important elements:
+- `links`
+- `images`
+- `lists`<br>
+-- ordered list<br>
+-- unordered list
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`freeCodeCamp`](https://www.freecodecamp.org/learn/)
+
+### Plans for Tommorow
+
+Will work on HTML background images and creating HTML Forms
+
+---
+
 ## DAY 1 : _2nd June 2021_
 
 ### Today's Progress:
@@ -11,16 +33,16 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 Started `HTML` from the scratch.
 <br>
 I started with the some basic tags such as
-- <pre>headers</pre>
-- <pre>paragraph</pre>
-- <pre>anchor</pre>
-- <pre>image</pre>
+- `headers`
+- `paragraph`
+- `anchor`
+- `image`
 
 Later I glanced over some attributes
-- <pre>href</pre>
-- <pre>src</pre>
-- <pre>width and height</pre>
-- <pre>style</pre>
+- `href`
+- `src`
+- `width and height`
+- `style`
 
 #### **`Note: I will be uploading the roadmap after the completion of HTML`** 
 

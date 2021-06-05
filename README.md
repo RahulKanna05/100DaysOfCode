@@ -4,6 +4,34 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 3 : _4th June 2021_
+
+### Today's Progress:
+
+Actually planned to work on HTML Forms but needed to change the plan for some reasons.
+<br>
+
+So, topics covered in today's session are :
+- `HTML background Images`
+- `HTML Tables`
+-- 
+`<tr>`
+`<th>`
+`<td>`
+
+Got to know much about HTML Tables (my first time encounter to them)
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`freeCodeCamp`](https://www.freecodecamp.org/learn/)
+
+### Plans for Tommorow
+
+Made a plan to work an important topic - HTML Forms
+
+---
+
 ## DAY 2 : _3rd June 2021_
 
 ### Today's Progress:

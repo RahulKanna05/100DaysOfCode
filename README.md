@@ -4,6 +4,30 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 4 : _5th June 2021_
+
+### Today's Progress:
+
+Today I worked on
+- `HTML Forms` -- their `attributes`, `elements` and
+- the different types in `input` element and its `attributes`.
+<br>
+W3Schools provided some great materials related to these topics.
+<br>
+
+Along with it I completed the related exercises on [`freeCodeCamp`](https://www.freecodecamp.org/learn/).
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`freeCodeCamp`](https://www.freecodecamp.org/learn/)
+
+### Plans for Tommorow
+
+Might go through `iframes`,  `video`, `audio` and other related elements in `HTML`.
+
+---
+
 ## DAY 3 : _4th June 2021_
 
 ### Today's Progress:

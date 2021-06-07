@@ -4,6 +4,28 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 5 : _6th June 2021_
+
+### Today's Progress:
+
+Today I've studied about 
+- `iframes `
+- `audio`
+- `video` elements
+<br>
+Completed related exercises on them in (https://www.w3schools.com/html/default.asp)
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`freeCodeCamp`](https://www.freecodecamp.org/learn/)
+
+### Plans for Tommorow
+
+Planning to start a project kinda thing.
+
+---
+
 ## DAY 4 : _5th June 2021_
 
 ### Today's Progress:

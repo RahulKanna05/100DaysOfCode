@@ -4,6 +4,23 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 6 : _7th June 2021_
+
+### Today's Progress:
+
+Revised through the previous concepts and started a project on FRONTENDMENTOR.<br>
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`freeCodeCamp`](https://www.freecodecamp.org/learn/)
+
+### Plans for Tommorow
+
+Gonna start the project and try to complete within the day
+
+---
+
 ## DAY 5 : _6th June 2021_
 
 ### Today's Progress:

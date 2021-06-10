@@ -4,11 +4,30 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 8 : _9th June 2021_
+
+### Today's Progress:
+
+Worked on the project mentioned yesterday.<br>
+I feel there's a lot of improvement in my CSS. During this process I learnt more about absolute and relative positioning.<br>
+Desktop version is good and need it make it responsive.
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`Stackoverflow`](https://stackoverflow.com/)
+
+### Plans for Tommorow
+
+Need to work on the mobile view and make it responsive.
+
+---
+
 ## DAY 7 : _8th June 2021_
 
 ### Today's Progress:
 
-Started a profile-card-component project on [@frontendmentor](https://www.frontendmentor.io/solutions/profile-card-component-main-U8QiTnGur). It made me realize the depth of CSS. But still it was good experience. Learnt few tricks to center an element etc.
+Started a profile-card-component project on [@frontendmentor](https://www.frontendmentor.io/). It made me realize the depth of CSS. But still it was good experience. Learnt few tricks to center an element etc.
 Half way through desktop version
 Still need to code for Mobile view.
 

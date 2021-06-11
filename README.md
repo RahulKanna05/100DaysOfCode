@@ -4,6 +4,31 @@ I have taken up the challenge of _#100daysofcode_ to improve and evolve myself. 
 
 ---
 
+## DAY 9 : _10th June 2021_
+
+### Today's Progress:
+
+Completed my profile-card-component project. Through coding this project, today I learnt about `media queries and making sites responsive.`<br>
+I stil feel that I need to dive more into this topic and learn more tricks.<br>
+Working on this project, my understanding towards CSS has improved and I kinda liked it.<br>
+##### `Definitely gonna do more projects.` 
+<br>
+
+I am providing the link for the project repo here where you can check out the website. I will be adding the project code into the **project folder** of this repo.<br>
+
+[Click Here](https://github.com/RahulKanna05/profile-card-component)
+
+### Resources:
+
+- [`W3Schools`](https://www.w3schools.com/html/default.asp)
+- [`Stackoverflow`](https://stackoverflow.com/)
+
+### Plans for Tommorow
+
+I will be starting CSS from the scratch.
+
+---
+
 ## DAY 8 : _9th June 2021_
 
 ### Today's Progress:
